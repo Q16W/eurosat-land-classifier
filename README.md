@@ -9,8 +9,8 @@ This is a Convolutional Neural Network (CNN) classifying Sentinel-2 satellite im
 * PermanentCrop
 * Residential
 * River
-* SeaLake
-<br>Using the publicly avaliable **EuroSAT** dataset.
+* SeaLake<br>
+Using the publicly avaliable **EuroSAT** dataset.
 
 ## Technologies
 * Python
